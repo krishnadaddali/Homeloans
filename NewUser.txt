@@ -1,0 +1,2 @@
+user must have first name and last name
+user has own SSN num
