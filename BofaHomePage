@@ -1,0 +1,6 @@
+Scenario: bofa login into acc to see the tran
+Given: The customer wants login into home to give the uname and pwd.
+When login successfull then goto transection page
+And move to payments to check this bill
+Then to see the deals page come up with festivals 
+
