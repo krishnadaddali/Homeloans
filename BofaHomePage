@@ -1,4 +1,4 @@
-Scenario: bofa login into acc to see the transactions
+Scenario: bofa login into acc to see the transactions details
 Given: The customer wants login into home to give the uname and pwd.
 When login successfull then goto transection page
 And move to payments to check this bill
