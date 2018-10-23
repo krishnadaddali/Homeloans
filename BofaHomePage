@@ -4,3 +4,5 @@ When login successfull then goto transection page
 And move to payments to check this bill
 Then to see the deals page come up with festivals 
 
+Scenario: account summary footer links
+
